@@ -4,3 +4,16 @@ body {
     background: #BDD5EA;
 
 }
+header img{
+    position:relative;
+    left: 520px;
+    width: 300px;
+    height: 150px;
+    display: block;
+}
+h1{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 35px;
+}
